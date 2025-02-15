@@ -7,5 +7,7 @@ https://bootcamp.laravel.com/blade/installation
 Or follow:
 https://bootcamp.laravel.com to choose a language other than blade
 
+### This app is licensed under MIT
+
 Enjoy!
 -----
