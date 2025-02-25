@@ -6,6 +6,7 @@ https://bootcamp.laravel.com/blade/installation
 
 Or follow:
 https://bootcamp.laravel.com to choose a language other than blade
+### These were the original links, but with the relese of laravel 12, you cannot folllow them anymore, scince they are simply redirects
 
 ### This app is licensed under MIT
 
