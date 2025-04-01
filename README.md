@@ -1,3 +1,4 @@
+# This app is no longer fully supported with the release of laravel 12, it will only receive updates once every two months and uses the no-longer maintained laravel breeze
 ## About this app
 Chirper is a basic Laravel app I made to learn about the framework
 ## Make this app yourself
